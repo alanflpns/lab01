@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alanflpns/lab01/compare/v1.0.0...v1.1.0) (2021-06-21)
+
+
+### Features
+
+* :sparkles: add message server ([758e31e](https://github.com/alanflpns/lab01/commit/758e31e0dc94b9fdc43188aacbf7e6889926f9b1))
+
 # 1.0.0 (2021-06-21)
 
 
