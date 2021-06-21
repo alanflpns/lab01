@@ -8,6 +8,5 @@
    ],
   "branches": ["main", "next"],
   "type": "git",
-  "dryRun": false,
   "url": "git@github.com:alanflpns/lab01.git"
 }
